@@ -1,5 +1,5 @@
 # HHPAL
-**Hybrid heuristic for unconstrained binary programming trained on Palubeckis' instances**
+**Hybrid heuristic for unconstrained binary qudratic programming trained on Palubeckis' instances**
 
 This heuristic algorithm was automatically generated using the [AutoBQP](https://github.com/souzamarcelo/AutoBQP) solver. The automated algorithm design process and the HHPAL algorithm are detailed in the following article (see AAC_P algorithm).
 
