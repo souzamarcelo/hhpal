@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+rm hhbqp &> /dev/null;
+mkdir build &> /dev/null;
+cd build &> /dev/null;
+cmake .. &> /dev/null;
+make &> /dev/null;
+cp hhbqp .. &> /dev/null;
+cd .. &> /dev/null;
+rm -r build &> /dev/null;
